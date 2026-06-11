@@ -4,7 +4,7 @@ import { BrowserRouter, NavLink, Route, Routes, useLocation } from "react-router
 import axios from "axios";
 import "./styles.css";
 
-const API_BASE = import.meta.env.VITE_API_BASE_URL || "http://localhost:8000";
+const API_BASE = import.meta.env.VITE_API_BASE_URL;
 
 const planets = [
   ["Sun", "सूर्य", "Ruby", "#C0392B"],
