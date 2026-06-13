@@ -1,3 +1,6 @@
+# YT video link ---
+https://youtu.be/ZlMvsOtcPvI?si=03CeiYUIe7IkXhLS
+
 # Navaratna
 
 Responsive React + FastAPI app scaffold for the AI Vedic gemstone recommendation app.
